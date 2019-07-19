@@ -1,14 +1,42 @@
 {
-  "name": "react-native-onesignal",
-  "version": "3.2.14",
-  "description": "React Native OneSignal Component",
-  "main": "index",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_from": "react-native-onesignal",
+  "_id": "react-native-onesignal@3.2.14",
+  "_inBundle": false,
+  "_integrity": "sha512-pL5eSTUAPSeVZQcYJcuFhAUGA+Pl22WgBn4VXYGI93Dtmzklhpuzxtkdm4LZSu08tHkhbe3VzYuziconJ33AKw==",
+  "_location": "/react-native-onesignal",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-onesignal",
+    "name": "react-native-onesignal",
+    "escapedName": "react-native-onesignal",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
   },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-onesignal/-/react-native-onesignal-3.2.14.tgz",
+  "_shasum": "421a3b34c226e5b6ea9e801b7b3f914d8e3c0abb",
+  "_spec": "react-native-onesignal",
+  "_where": "/Users/sirajalam/Documents/workspace/mithya/Chet/chet",
+  "author": {
+    "name": "Geektime",
+    "email": "http://www.geektime.co.il"
+  },
+  "bugs": {
+    "url": "https://github.com/geektimecoil/react-native-onesignal/issues"
+  },
+  "bundleDependencies": false,
   "dependencies": {
     "invariant": "^2.2.2"
   },
+  "deprecated": false,
+  "description": "React Native OneSignal Component",
+  "homepage": "https://github.com/geektimecoil/react-native-onesignal#readme",
   "keywords": [
     "react-component",
     "react-native",
@@ -20,13 +48,19 @@
     "gcm",
     "onesignal"
   ],
-  "bugs": {
-    "url": "https://github.com/geektimecoil/react-native-onesignal/issues"
-  },
+  "license": "MIT",
+  "main": "index",
+  "name": "react-native-onesignal",
   "repository": {
     "type": "git",
-    "url": "https://github.com/geektimecoil/react-native-onesignal"
+    "url": "git+https://github.com/geektimecoil/react-native-onesignal.git"
   },
-  "author": "Geektime <http://www.geektime.co.il>",
-  "license": "MIT"
+  "files": [
+    "ios/"
+  ]
+  ,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "3.2.14"
 }
